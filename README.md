@@ -146,8 +146,26 @@ Deskripsi :
   - Integrasi dengan instansi dinas level provinsi dan kabupaten
 - Forum untuk sesama pekerja berbagi info + rating postingan dsb.
 
-### Kelompok 6
-- Aka
-- Adi Pratama
-- Agus
-- Dani
+### Kelompok 6 : PT. Nur Hikari
+- Aka (CEO & SCRUM Master & Developer)
+- Adi Pratama (Business Analyst & Project Manager)
+- Agus (UI/UX Designer)
+- Dani (IT Support)
+
+#### Proyek
+Judul : Transofrmasi Situs Kemendikbud ID
+Budget : Rp 2.650.000.000 (APBN)
+Penyelenggara : Kementerian Pendidikan dan Kebudayaan 
+Deskripsi :
+- Website yang modern dan Interaktif
+- Fitur non berita
+- User utama, GURU : gimana caranya guru harus super mudah begitu buka web ini
+  - Sertifikasi
+  - Status guru / perhonoran
+  - Penyediaan materi ajar interaktif
+- User eksternal : stakeholder internasional
+- User siswa
+- Guru dari sekolah2 anak orang kaya dan elite, gimana caranya bisa jelasin ke seluruh murid pelosok indonesia
+  - Gimana caranya kelasnya guru terbaik Insan Cendikia / internasional bisa hadir di seluruh siswa pelosok, sampe anak dari desa paling terpencil bisa dapet inspirasi gede dari guru guru elite
+    - Ada sistem offline yg diupdate rutin isinya video pembelajaran dari guru2 terbaik termahal ter elite.
+  
