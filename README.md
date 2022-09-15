@@ -58,11 +58,35 @@ Deskripsi :
       - Integrasi notifikasi ke polisi, pemadam, ambulan, dsb.
   
 
-### Kelompok 3
-- Alifiana
-- Aditya Maulana
-- Alip
-- Arba
+### Kelompok 3 : PT. Superapp For Happiness
+- Alifiana (Business Analyst) 
+- Aditya Maulana (UX/UI)
+- Alip (IT Analyst)
+- Arba (CEO)
+
+#### Proyek
+Judul : Pengembangan Website Bidang Perumahan
+Budget : Rp 282.755.000.000
+Penyelenggara : Dinas Perumahan dan Kawasan Pemukiman 
+Deskripsi :
+- Edukasi rumah sehat
+  - Untuk semua penduduk
+  - Rancang sekreatif mungkin
+  - Wahana pamer rumah sehat penduduk bisa di rate
+  - Ada list requirement rumah sehat
+  - Event lomba sehat
+- Program bantuan perumahan
+  - Database bantuan
+    - Data by name by address, coordinate, photos
+    - Atribut2 pemberian bantuan
+      - Tingkat kerusakan atap
+      - Tingkat kerusakan tembok
+  - Dashboard statistik bantuan perumahan
+    - Permintaan permohonan bantuan
+      - Bisa liat detail keparahan 
+    - Breakdown sampe terkecil
+  - Interface pelaporan rumah butuh bantuan
+- User penduduk dan pemerintah
 
 ### Kelompok 4
 - Anne
