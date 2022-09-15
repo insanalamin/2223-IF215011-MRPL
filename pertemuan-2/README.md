@@ -2,7 +2,9 @@
 
 ## Software Development Life Cycle
 - Planning
-- 
+- Requirements
+- Design and Prototyping
+- Software Development
 
 ### Bacaan
 - [Phases of Software Development, Models, & Best Practices](https://phoenixnap.com/blog/software-development-life-cycle)
@@ -15,7 +17,7 @@
 ## Output Proyek
 
 - **Laporan Awal**
-- Project Timeline
+  - Project Timeline
 - SCRUM artifacts
   - Product Backlog
   - Sprint Backlog
