@@ -66,7 +66,7 @@ Deskripsi :
 
 #### Proyek
 Judul : Pengembangan Website Bidang Perumahan
-Budget : Rp 282.755.000.000
+Budget : Rp 282.755.000
 Penyelenggara : Dinas Perumahan dan Kawasan Pemukiman 
 Deskripsi :
 - Edukasi rumah sehat
