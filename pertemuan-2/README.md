@@ -13,6 +13,9 @@
 - [Getting Agile with Scrum](https://www.mountaingoatsoftware.com/uploads/presentations/Getting-Agile-With-Scrum-Norwegian-Developers-Conference-2014.pdf)
 
 ## Tools
+- Project Management Tools
+  - Trello
+  - Notion
 
 ## Output Proyek
 
