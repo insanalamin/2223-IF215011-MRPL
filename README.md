@@ -88,11 +88,37 @@ Deskripsi :
   - Interface pelaporan rumah butuh bantuan
 - User penduduk dan pemerintah
 
-### Kelompok 4
-- Anne
-- Ahmad Suhaemi
-- Aldi Fahluzi
-- Adryan
+### Kelompok 4 : PT. Smartprey Information
+- Anne (Business Analyst)
+- Ahmad Suhaemi (Direktur)
+- Aldi Fahluzi (CTO & UI Designer)
+- Adryan (Project Manager & UX Researcher)
+
+#### Proyek
+Judul : Pengadaan Aplikasi Pengaduan Masyarakat Berbasis Peta Digital
+Budget : Rp 3.490.000.000
+Penyelenggara : Dinas Komunikasi, Informatika, dan Kehumasan
+Deskripsi :
+- Ada peta digital ada visualisasi pengaduan
+- User
+  - Sangat mudah mengakses aplikasi
+  - Single Sign On Penduduk
+  - Pengaduan
+    - Tipe pengaduan ()
+    - Instansi yg dituju
+    - dsb.
+  - Notifikasi respon
+  - Wajib lebih baik daripada aplikasi L*P**
+- Pemerintah
+  - Dashboard
+    - Statistik yg berhasil ditangani
+      - Pemerintah
+      - Non pemerintah
+  - Penanganan keluhan + nyebar ke instansi terkait keluhan tersebut
+  - Kuatin aspek transparansi, dan alert ketika keluhan ditangani
+  - Tambahin forward ke organanisasi sosial kalo pemerintah ga sanggup
+    - Bikin mekanisme kreatifnya, misal udanan
+    - Bikin mekanisme integrasi data dengan pihak2 organisasi voluntir
 
 ### Kelompok 5
 - Azmi
