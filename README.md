@@ -4,9 +4,9 @@
 
 ### Kelompok 1 : PT Uptech Indonesia
 - Aini (IT Operation)
-- Ammar (CEO)
-- Arham (IT Developer)
-- Alen (IT Analyst)
+- Ammar (CEO & SCRUM Master)
+- Arham (IT Developer & UX/UI Designer)
+- Alen (IT Analyst & Business Analyst)
 
 #### Proyek
 Judul : Operational dan Pemeliharaan Smart Parking
