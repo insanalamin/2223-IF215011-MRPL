@@ -25,11 +25,38 @@ Deskripsi :
 - Ada statistik dari pengguna untuk diakses pengguna menggunakan Single Sign on kementerian
 - Staf bisa liat penuh tidaknya lahan parkir
 
-### Kelompok 2
-- Ayuni
-- Alfin
-- Abdullah
-- Arif
+### Kelompok 2 : CV A4 Technology
+- Ayuni (CEO & SCRUM Master)
+- Alfin (Staf Ahli & UI Designer)
+- Abdullah (Staf Ahli)
+- Arif (Project Manager & UX Researcher & Business Analyst)
+
+#### Proyek
+Judul : Penyediaan Komunikasi, Informasi, dan Edukasi Kebencanaan di Fasilitas Publik
+Budget : Rp 6.490.000.000
+Penyelenggara : BPBD 
+Deskripsi :
+- Anjungan Digital & Aplikasi
+  - Anjungan Digital
+    - Info untuk buka aplikasi
+    - Informasi daerah tersebut
+    - Edukasi kebencanaan
+  - Aplikasi
+    User penduduk
+    - Chat BPBD setempat
+    - Informasi daerah tersebut
+    - Edukasi kebencanaan
+    - Panic button untuk kalo ada bencana (tombol + masukin lokasi + gambar, dsb.)
+    - Notifikasi
+    User pemerintah
+    - Business Intelligent
+      - Tau berapa banyak user berinteraksi di total anjungan digital yang diadakan
+      - Tau berapa banyak user yang menggunakan aplikasi bencana
+      - Ada integrasi info kebencanaan dari misal BMKG, dari luar negeri, dsb.
+    - Quick response
+      - Penanganan ketika ada kedaruratan (buat seefektif mungkin)
+      - Integrasi notifikasi ke polisi, pemadam, ambulan, dsb.
+  
 
 ### Kelompok 3
 - Alifiana
