@@ -145,6 +145,7 @@ Deskripsi :
   - Integrasi dengan instansi penyedia pelatihan kerja dan kewirausahaan
   - Integrasi dengan instansi dinas level provinsi dan kabupaten
 - Forum untuk sesama pekerja berbagi info + rating postingan dsb.
+- Integrasi dengan lembaga riset kependidikan / psikologi untuk formulasi kebijakan
 
 ### Kelompok 6 : PT. Nur Hikari
 - Aka (CEO & SCRUM Master & Developer)
